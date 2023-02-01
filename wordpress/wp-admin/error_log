@@ -1,0 +1,25 @@
+[16-Nov-2022 17:02:27 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 375
+[17-Nov-2022 17:54:46 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 386
+[18-Nov-2022 13:14:34 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '(``)' at line 1 for query ALTER TABLE wp_oxi_div_import ADD  `` (``) made by activate_plugin, do_action('activate_image-hover-effects-ultimate-visual-composer/index.php'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, OXI_FLIP_BOX_PLUGINS\Classes\Installation->plugin_activation_hook, OXI_FLIP_BOX_PLUGINS\Classes\Installation->Flip_Datatase, dbDelta
+[18-Nov-2022 13:14:34 UTC] WordPress database error Duplicate entry 'flip-1' for key 'unique_index' for query INSERT INTO wp_oxi_div_import (name, type) VALUES
+        (1, 'flip'),
+        (2, 'flip'),
+        (3, 'flip'),
+        (4, 'flip'),
+        (5, 'flip') made by activate_plugin, do_action('activate_image-hover-effects-ultimate-visual-composer/index.php'), WP_Hook->do_action, WP_Hook->apply_filters, {closure}, OXI_FLIP_BOX_PLUGINS\Classes\Installation->plugin_activation_hook, OXI_FLIP_BOX_PLUGINS\Classes\Installation->Flip_Datatase
+[29-Nov-2022 17:08:52 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 375
+[29-Nov-2022 17:58:02 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 375
+[17-Jan-2023 17:15:13 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 386
+[17-Jan-2023 17:18:18 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 386
+[17-Jan-2023 17:20:32 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 386
+[17-Jan-2023 17:32:35 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 375
+[17-Jan-2023 18:55:36 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 386
+[17-Jan-2023 18:58:22 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 801
+[17-Jan-2023 18:59:32 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 386
+[18-Jan-2023 13:02:07 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 386
+[19-Jan-2023 12:29:27 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 375
+[19-Jan-2023 12:30:42 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 375
+[19-Jan-2023 13:16:49 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 386
+[19-Jan-2023 14:33:04 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 375
+[19-Jan-2023 16:40:14 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 386
+[19-Jan-2023 16:43:50 UTC] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /home4/oconso99/public_html/projeto_consolador/wordpress/wp-includes/class-wp-image-editor-imagick.php on line 375
